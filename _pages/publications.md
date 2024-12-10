@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: 
 years: 
-nav: true
+nav: false
 ---
 
 <html lang="en">
