@@ -7,7 +7,7 @@ description:
 profile:
   align: right
   image: zehui-lu-4.jpg
-  address: 
+  address: aaaa
 
 
 news: false  # includes a list of news items
@@ -27,7 +27,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a Visiting Assistant Professor in the School of Aeronautics and Astronautics at Purdue University.
 
-I obtained my Ph.D. from Purdue University in 2024, working with Dr. Shaoshuai Mou.
+I earned my Master's degree in Mechanical Engineering from the University of Michigan in 2019 and completed my PhD in Aeronautical and Astronautical Engineering at Purdue University in 2024. In 2020, I worked as a Research Engineer at the University of Michigan & Ford Center for Autonomous Vehicles (FCAV) and ROAHM Lab. From 2023 to 2024, I was a Research Intern at Mitsubishi Electric Research Laboratories, superviosed by Dr. Yebin Wang.
 
 This website is under construction.
 
