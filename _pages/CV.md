@@ -16,6 +16,7 @@ description: Zehui Lu's CV
     <script>
         // Redirects immediately to the specified URL
         window.location.href = "https://drive.google.com/file/d/1wRG5115stiXRnBLKHNMJYhmdo0IpHsNM/view?usp=sharing";
+        window.location.target = "_blank";
     </script>
 </head>
 </html>
