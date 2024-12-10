@@ -167,7 +167,7 @@ Under Review, IEEE Robotics and Automation Letters, 2024 <br />
 
 
 
-##### **3. Intelligent Decision-making, Control-Informed Learning, and Learning-enhanced Control for Mechatronics, Robots, and Autonomous Systems**
+##### **3. Intelligent Decision-Making, Control-Informed Learning, and Learning-Enhanced Control for Mechatronics, Robots, and Autonomous Systems**
 
 ---
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
