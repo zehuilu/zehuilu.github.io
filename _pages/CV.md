@@ -13,8 +13,7 @@ nav: true
     <meta charset="UTF-8">
     <title>Redirecting...</title>
     <script>
-        // Redirects immediately to the specified URL
-        window.location.href = "PURDUE_ZEHUI_LU_CV_20241201.pdf";
+        <object data="/collections/profile/PURDUE_ZEHUI_LU_CV_20241201.pdf" width="1000" height="1000" type="application/pdf"></object>
     </script>
 </head>
 <!-- <body>
