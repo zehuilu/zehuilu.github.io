@@ -20,15 +20,14 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-## **Wanxin Jin** (靳万鑫)
+## **Zehui Lu**
 
 <p style="margin-bottom:1.3cm; margin-left: 0.5cm"> </p>
 
 
-I am an Assistant Professor in the School for Engineering of Matter, Transport and Energy at Arizona State University (ASU). I lead the **[Intelligent Robotics and Interactive Systems (IRIS)](https://asu-iris.github.io/){:target="_blank"}** Lab. I  **[teach robotics](https://asu-iris.github.io/course_robotics/intro.html){:target="_blank"}** at ASU.
+I am a Visiting Assistant Professor in the School of Aeronautics and Astronautics at Purdue University.
 
-Prior to ASU, I was a Postdoctoral Researcher in the GRASP Lab, University of Pennsylvania, working with Dr. Michael Posa.
-I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai Mou. I was  a research assistant at Technical University of Munich in 2016 and 2017, working with Dr. Sandra Hirche.
+I obtained my Ph.D. from Purdue University in 2024, working with Dr. Shaoshuai Mou.
 
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
@@ -36,16 +35,16 @@ I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai M
 
 
 <center>
-    <a href = "mailto:wanxinjin@gmail.com" target="_blank"> 
+    <a href = "mailto:lu846@purdue.edu" target="_blank"> 
     <img src="assets/img/platform_icon/email.gif" width="35" target="_blank"> </a>   &nbsp;&nbsp;&nbsp;
-<a href = "https://scholar.google.com/citations?user=SoEC4h4AAAAJ&hl=en" target="_blank"> 
+<a href = "https://scholar.google.com/citations?user=j73ZnVYAAAAJ&hl=en&oi=ao" target="_blank"> 
     <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank"></a>   &nbsp;&nbsp;&nbsp;
-<a href = "https://github.com/wanxinjin" target="_blank">
+<a href = "https://github.com/zehuilu" target="_blank">
     <img src="assets/img/platform_icon/github.gif" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
-<a href = "https://twitter.com/jinwanxin" target="_blank">
-    <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp;
-<a href = "https://www.youtube.com/channel/UCkMgzXIhi3BmWP7tAdeyoaA" target="_blank">
-    <img src="assets/img/platform_icon/youtube.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp;
+<!-- <a href = "https://twitter.com/jinwanxin" target="_blank">
+    <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
+<!-- <a href = "https://www.youtube.com/channel/UCkMgzXIhi3BmWP7tAdeyoaA" target="_blank">
+    <img src="assets/img/platform_icon/youtube.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
 
 </center>
 
@@ -62,7 +61,7 @@ I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai M
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
-The  research of our **[Intelligent Robotics and Interactive Systems (IRIS)](https://asu-iris.github.io/){:target="_blank"}** Lab is focused on
+My research focuses on
 
 - **Human-autonomy alignment:**  We develop certifiable, efficient, and empowering methods to enable robots to align their autonomy with human users through various natural interactions.
 
