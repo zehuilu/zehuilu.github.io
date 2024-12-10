@@ -7,7 +7,7 @@ description:
 profile:
   align: right
   image: zehui-lu-4.jpg
-  address: aaaa
+  address:
 
 
 news: false  # includes a list of news items
@@ -25,9 +25,14 @@ social: false  # includes social icons at the bottom of the page
 <p style="margin-bottom:1.3cm; margin-left: 0.5cm"> </p>
 
 
-I am a Visiting Assistant Professor in the School of Aeronautics and Astronautics at Purdue University.
+I am a Visiting Assistant Professor in the School of Aeronautics and Astronautics at Purdue University since August, 2024. From 2023 to 2024, I was a Research Intern at Mitsubishi Electric Research Laboratories, superviosed by [Dr. Yebin Wang](https://www.merl.com/people/yebinwang). In 2020, I worked as a Research Engineer at the University of Michigan & Ford Center for Autonomous Vehicles (FCAV) and ROAHM Lab, superviosed by [Prof. Ram Vasudevan](https://me.engin.umich.edu/people/faculty/ramanarayan-vasudevan/).
 
-I earned my Master's degree in Mechanical Engineering from the University of Michigan in 2019 and completed my PhD in Aeronautical and Astronautical Engineering at Purdue University in 2024. In 2020, I worked as a Research Engineer at the University of Michigan & Ford Center for Autonomous Vehicles (FCAV) and ROAHM Lab. From 2023 to 2024, I was a Research Intern at Mitsubishi Electric Research Laboratories, superviosed by Dr. Yebin Wang.
+Ph.D., Aeronautical and Astronautical Engineering, Purdue University, 2020 - 2024
+Advisor: [Prof. Shaoshuai Mou](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981)
+
+M.S.E., Mechanical Engineering, University of Michigan, 2018 - 2019
+Advisor: [Prof. Ram Vasudevan](https://me.engin.umich.edu/people/faculty/ramanarayan-vasudevan/)
+
 
 This website is under construction.
 

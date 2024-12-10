@@ -13,7 +13,7 @@ nav: true
     <meta charset="UTF-8">
     <title>Redirecting...</title>
     <script>
-        <object data="https://zehuilu.github.io/collections/profile/PURDUE_ZEHUI_LU_CV_20241201.pdf" width="1000" height="1000" type="application/pdf"></object>
+        <object data="collections/profile/PURDUE_ZEHUI_LU_CV_20241201.pdf" width="1000" height="1000" type="application/pdf"></object>
     </script>
 </head>
 <!-- <body>
