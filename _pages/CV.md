@@ -8,3 +8,14 @@ cv_pdf: collections/profile/PURDUE_ZEHUI_LU_CV_20241201.pdf # you can also use e
 description: Zehui Lu's CV
 # This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 ---
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <script>
+        // Redirects immediately to the specified URL
+        window.location.href = "https://drive.google.com/file/d/1wRG5115stiXRnBLKHNMJYhmdo0IpHsNM/view?usp=sharing";
+    </script>
+</head>
+</html>

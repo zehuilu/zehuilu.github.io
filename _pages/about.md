@@ -248,3 +248,13 @@ Tianyu Zhou, <b>Zehui Lu</b>, Shaoshuai Mou<br />
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10639942){:target="_blank"} /
 [[Videos]](https://youtu.be/-3WkRDwjgGo?si=Q2_ZXMq1aSpt9oNM){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+
+---
+<!-- <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 /> -->
+**Real-Time Multi-Robot Mission Planning in Cluttered Environment** <br />
+<b>Zehui Lu</b>Tianyu Zhou, , Shaoshuai Mou<br />
+Robotics, 2024 <br />
+[[PDF]](https://www.mdpi.com/2218-6581/13/3/40){:target="_blank"} /
+[[Videos]](https://youtu.be/bT5-EjS9rAk?si=VtOYi0l2I9d-6c1H){:target="_blank"}
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
