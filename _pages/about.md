@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: square_small.jpeg
+  image: zehui-lu-4.jpg
   address: 
 
 
