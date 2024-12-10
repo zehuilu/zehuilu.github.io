@@ -218,7 +218,7 @@ Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025),
 <!-- <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 /> -->
 **Distributed Optimization under Edge Agreements: A Continuous-time Algorithm** <br />
 <b>Zehui Lu</b>, Shaoshuai Mou<br />
-Systems & Control Letters, 22024022 <br />
+Systems & Control Letters, 2024 <br />
 [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0167691123002451){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
@@ -299,8 +299,11 @@ Robotics, 2024 <br />
 
 ##### **Patents**
 
+---
 **Systems and Methods for Joint Design of Actuators and Control for Robots** <br />
 US patent application filed, 2024
 
+
+---
 **Systems and Methods for Controlling a Motor with Dynamically Parameterized Trajectory Estimation** <br />
 US patent application filed, 2024
