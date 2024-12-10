@@ -4,7 +4,7 @@ permalink: /CV/
 title: CV
 nav: true
 # nav_order: 5
-# cv_pdf: https://drive.google.com/file/d/1wRG5115stiXRnBLKHNMJYhmdo0IpHsNM/view?usp=sharing # you can also use external links here
+# cv_pdf: # you can also use external links here
 description: Zehui Lu's CV
 # This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 ---
@@ -13,10 +13,11 @@ description: Zehui Lu's CV
 <head>
     <meta charset="UTF-8">
     <title>Redirecting...</title>
-    <script>
+    <!-- <script>
         // Redirects immediately to the specified URL
         window.location.href = "https://drive.google.com/file/d/1wRG5115stiXRnBLKHNMJYhmdo0IpHsNM/view?usp=sharing";
         window.location.target = "_blank";
-    </script>
+    </script> -->
+    <a href="https://drive.google.com/file/d/1wRG5115stiXRnBLKHNMJYhmdo0IpHsNM/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link</a>
 </head>
 </html>
