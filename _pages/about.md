@@ -42,15 +42,17 @@ This website is under construction.
 
 
 <center>
-    <a href = "mailto:lu846@purdue.edu" target="_blank"> 
+<a href = "mailto:lu846@purdue.edu" target="_blank" rel="noopener noreferrer"> 
     <img src="assets/img/platform_icon/email.gif" width="35" target="_blank"> </a>   &nbsp;&nbsp;&nbsp;
-<a href = "https://scholar.google.com/citations?user=j73ZnVYAAAAJ&hl=en&oi=ao" target="_blank"> 
+<a href = "https://scholar.google.com/citations?user=j73ZnVYAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"> 
     <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank"></a>   &nbsp;&nbsp;&nbsp;
-<a href = "https://github.com/zehuilu" target="_blank">
+<a href = "https://github.com/zehuilu" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/github.gif" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
-<!-- <a href = "https://twitter.com/jinwanxin" target="_blank">
+<a href = "https://drive.google.com/file/d/10IdqrBp7kxTYtsXFyl7CbGVanUkw98kd/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+    <img src="assets/img/platform_icon/CV_icon.png" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
+<!-- <a href = "https://twitter.com/jinwanxin" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
-<!-- <a href = "https://www.youtube.com/channel/UCkMgzXIhi3BmWP7tAdeyoaA" target="_blank">
+<!-- <a href = "https://www.youtube.com/channel/UCkMgzXIhi3BmWP7tAdeyoaA" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/youtube.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
 
 </center>
