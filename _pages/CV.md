@@ -14,9 +14,12 @@ description: Zehui Lu's CV
     <meta charset="UTF-8">
     <title>Redirecting...</title>
     <script>
-        // Redirects immediately to the specified URL
         window.onload = function() {
             window.open("https://drive.google.com/file/d/10IdqrBp7kxTYtsXFyl7CbGVanUkw98kd/view?usp=drive_link", "_blank", "noopener,noreferrer");
         };
+    </script>
 </head>
+<body>
+    <p>Redirecting...</p>
+</body>
 </html>
