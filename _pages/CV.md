@@ -13,11 +13,10 @@ description: Zehui Lu's CV
 <head>
     <meta charset="UTF-8">
     <title>Redirecting...</title>
-    <!-- <script>
+    <script>
         // Redirects immediately to the specified URL
-        window.location.href = "https://drive.google.com/file/d/1wRG5115stiXRnBLKHNMJYhmdo0IpHsNM/view?usp=sharing";
-        window.location.target = "_blank";
-    </script> -->
-    <a href="https://drive.google.com/file/d/1wRG5115stiXRnBLKHNMJYhmdo0IpHsNM/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link</a>
+        window.onload = function() {
+            window.open("https://drive.google.com/file/d/10IdqrBp7kxTYtsXFyl7CbGVanUkw98kd/view?usp=drive_link", "_blank", "noopener,noreferrer");
+        };
 </head>
 </html>
