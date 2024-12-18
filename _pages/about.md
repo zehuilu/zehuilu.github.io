@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 title: me
 permalink: /
 description: 
@@ -48,7 +48,7 @@ This website is under construction.
     <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank"></a>   &nbsp;&nbsp;&nbsp;
 <a href = "https://github.com/zehuilu" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/github.gif" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
-<a href = "https://drive.google.com/file/d/10IdqrBp7kxTYtsXFyl7CbGVanUkw98kd/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+<a href = "https://drive.google.com/file/d/1hpgSP5PSaMVwoxF-MK8Lw9vfKSvkNWd_/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/CV_icon.png" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
 <!-- <a href = "https://twitter.com/jinwanxin" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
