@@ -197,7 +197,7 @@ Under Review, Transactions on Machine Learning Research, 2024 <br />
 ---
 **Online Intention Prediction via Imitation Learning** <br />
 Tianyu Zhou, Zihao Liang, <b>Zehui Lu</b>, Shaoshuai Mou<br />
-Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025), 2024 <br />
+Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) <br />
 <!-- [[PDF]](https://arxiv.org/abs/2410.03924){:target="_blank"} -->
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
 <!-- [[Video]](https://www.youtube.com/watch?v=abP1QGX6lWY){:target="_blank"}/ -->
@@ -208,7 +208,7 @@ Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025),
 ---
 **A Distributed Deep Koopman Learning Algorithm for Control** <br />
 Wenjian Hao, <b>Zehui Lu</b>, Devesh Upadhyay, Shaoshuai Mou<br />
-Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025), 2024 <br />
+Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) <br />
 <!-- [[PDF]](https://arxiv.org/abs/2410.03924){:target="_blank"} -->
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
 <!-- [[Video]](https://www.youtube.com/watch?v=abP1QGX6lWY){:target="_blank"}/ -->
@@ -239,7 +239,8 @@ Systems & Control Letters, 2024 <br />
 **Cooperative Tuning of Multi-Agent Optimal Control Systems** <br />
 <b>Zehui Lu</b>, Wanxin Jin, Shaoshuai Mou, Brian D. O. Anderson<br />
 2022 IEEE 61st Conference on Decision and Control (CDC), 2022 <br />
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/9992969){:target="_blank"}
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9992969){:target="_blank"} /
+[[Code]](https://github.com/zehuilu/Cooperative-Tuning-of-Multi-Agent-Optimal-Control-Systems){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
 
@@ -253,8 +254,8 @@ Systems & Control Letters, 2024 <br />
 Wanxin Jin, Todd D Murphey, <b>Zehui Lu</b>, Shaoshuai Mou<br />
 IEEE Transactions on Robotics, 2022 <br />
 [[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} /
-[[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} /
-[[Videos]](https://youtu.be/Mwlwt055Tgg){:target="_blank"}
+[[Video]](https://youtu.be/Mwlwt055Tgg){:target="_blank"} /
+[[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
 
@@ -265,7 +266,7 @@ Jose D. Hoyos, Tianyu Zhou, <b>Zehui Lu</b>, Shaoshuai Mou<br />
 Under Review, IEEE Transactions on Automation Science and Engineering, 2024 <br />
 <!-- [[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} /
 [[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} / -->
-[[Videos]](https://youtu.be/iQ9f3bVbYis?si=Zmd503H2KCAg_F8P){:target="_blank"}
+[[Video]](https://youtu.be/iQ9f3bVbYis?si=Zmd503H2KCAg_F8P){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
 
@@ -274,7 +275,7 @@ Under Review, IEEE Transactions on Automation Science and Engineering, 2024 <br 
 **On Orbit Object Transportation with Spacecraft Swarms** <br />
 Sidhdharth D. Sikka, <b>Zehui Lu</b>, Ayush Rai, Daniel DeLaurentis, Shaoshuai Mou<br />
 2025 AIAA SciTech Forum, 2025 <br />
-<!-- [[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} / -->
+[[PDF]](https://arc.aiaa.org/doi/10.2514/6.2025-0405){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
 
@@ -284,7 +285,7 @@ Sidhdharth D. Sikka, <b>Zehui Lu</b>, Ayush Rai, Daniel DeLaurentis, Shaoshuai M
 Tianyu Zhou, <b>Zehui Lu</b>, Shaoshuai Mou<br />
 <b>Best Student Paper Award</b>, 2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS), 2024 <br />
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10639942){:target="_blank"} /
-[[Videos]](https://youtu.be/-3WkRDwjgGo?si=Q2_ZXMq1aSpt9oNM){:target="_blank"}
+[[Video]](https://youtu.be/-3WkRDwjgGo?si=Q2_ZXMq1aSpt9oNM){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
 
@@ -294,7 +295,8 @@ Tianyu Zhou, <b>Zehui Lu</b>, Shaoshuai Mou<br />
 <b>Zehui Lu</b>, Tianyu Zhou, Shaoshuai Mou<br />
 Robotics, 2024 <br />
 [[PDF]](https://www.mdpi.com/2218-6581/13/3/40){:target="_blank"} /
-[[Videos]](https://youtu.be/bT5-EjS9rAk?si=VtOYi0l2I9d-6c1H){:target="_blank"}
+[[Video]](https://youtu.be/bT5-EjS9rAk?si=VtOYi0l2I9d-6c1H){:target="_blank"} /
+[[Code]](https://github.com/zehuilu/Real-time-Multi-Robot-Mission-Planning-in-Cluttered-Environment){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
 
