@@ -209,7 +209,7 @@ Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) 
 **A Distributed Deep Koopman Learning Algorithm for Control** <br />
 Wenjian Hao, <b>Zehui Lu</b>, Devesh Upadhyay, Shaoshuai Mou<br />
 Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) <br />
-<!-- [[PDF]](https://arxiv.org/abs/2410.03924){:target="_blank"} -->
+[[PDF]](https://arxiv.org/abs/2412.07212){:target="_blank"}
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
 <!-- [[Video]](https://www.youtube.com/watch?v=abP1QGX6lWY){:target="_blank"}/ -->
 <!-- [[Webpage]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"} -->
