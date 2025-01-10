@@ -48,7 +48,7 @@ This website is under construction.
     <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank"></a>   &nbsp;&nbsp;&nbsp;
 <a href = "https://github.com/zehuilu" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/github.gif" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
-<a href = "https://drive.google.com/file/d/1FVY-mxsEEG8xRRZs5FfzRECVPBHMuX_u/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+<a href = "https://drive.google.com/file/d/14EjTjpeYzEg1ZFL1Y3OWU5f9oZbAevlb/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/CV_icon.png" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
 <!-- <a href = "https://twitter.com/jinwanxin" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
