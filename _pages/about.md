@@ -96,7 +96,7 @@ My research focuses on
 ---
 <!-- <img src="/collections/research/manipulation/contactsdf/contactSDF-eval-ccw.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **Integrated Optimal Fast Charging and Active Thermal Management of Lithium-Ion Batteries in Extreme Ambient Temperatures** <br />
-<b>Zehui Lu</b>, Hao Tu, Huazhen Fang, Yebin Wang, Shaoshuai Mou<br />
+**Zehui Lu**, Hao Tu, Huazhen Fang, Yebin Wang, Shaoshuai Mou<br />
 IEEE Transactions on Control Systems Technology, 2024 <br />
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10759302){:target="_blank"}
 <!-- [[Code]](https://github.com/asu-iris/ContactSDF){:target="_blank"}/ -->
@@ -108,7 +108,7 @@ IEEE Transactions on Control Systems Technology, 2024 <br />
 ---
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **Distributed Optimization under Edge Agreement with Application in Battery Network Management** <br />
-<b>Zehui Lu</b>, Shaoshuai Mou<br />
+**Zehui Lu**, Shaoshuai Mou<br />
 Under Review, IEEE Transactions on Control of Network Systems, 2024 <br />
 [[PDF]](https://arxiv.org/abs/2409.00936){:target="_blank"}
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
@@ -121,7 +121,7 @@ Under Review, IEEE Transactions on Control of Network Systems, 2024 <br />
 ---
 <!-- <img src="collections/research/manipulation/cartpole_wall_crop.gif"  title="SafePDP" width="150"  align="left" hspace="25" vspace=0 /> -->
 **A Real-time High C-rate Lithium-ion Battery Fast Charging Strategy** <br />
-<b>Zehui Lu</b>, Hao Tu, Huazhen Fang, Yebin Wang, Shaoshuai Mou<br />
+**Zehui Lu**, Hao Tu, Huazhen Fang, Yebin Wang, Shaoshuai Mou<br />
 Under Review, The 9th IEEE Conference on Control Technology and Applications (CCTA), 2025 <br />
 <!-- [[PDF]](https://arxiv.org/abs/2112.13284){:target="_blank"} /  -->
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
@@ -134,7 +134,7 @@ Under Review, The 9th IEEE Conference on Control Technology and Applications (CC
 ---
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **A Differentiable Dynamic Modeling Approach to Integrated Motion Planning and Actuator Physical Design for Mobile Manipulators** <br />
-<b>Zehui Lu</b>, Yebin Wang<br />
+**Zehui Lu**, Yebin Wang<br />
 Journal of Field Robotics, 2024 <br />
 [[PDF]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22394){:target="_blank"} / 
 [[Video]](https://vimeo.com/1032336085){:target="_blank"}
@@ -144,7 +144,7 @@ Journal of Field Robotics, 2024 <br />
 ---
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **Distributed Co-Design of Motors and Motions for Robotic Manipulators** <br />
-<b>Zehui Lu</b>, Yebin Wang, Yusuke Sakamoto, Shaoshuai Mou<br />
+**Zehui Lu**, Yebin Wang, Yusuke Sakamoto, Shaoshuai Mou<br />
 2024 European Control Conference (ECC), 2024 <br />
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10590808){:target="_blank"}
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
@@ -153,7 +153,7 @@ Journal of Field Robotics, 2024 <br />
 ---
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **Enhanced Agility and Safety in Mobile Manipulators through Centroidal Momentum-Based Motion Planning** <br />
-Min Dai, <b>Zehui Lu</b>, Na Li, Yebin Wang<br />
+Min Dai, **Zehui Lu**, Na Li, Yebin Wang<br />
 Under Review, 2025 European Control Conference (ECC) <br />
 [[Video]](https://vimeo.com/1027881425){:target="_blank"}
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
@@ -163,7 +163,7 @@ Under Review, 2025 European Control Conference (ECC) <br />
 ---
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **Closing the Robot Co-Design Loop: A Framework for Motors, Motions and Feedback Controller Design under Disturbances** <br />
-Jui-Te Lin, <b>Zehui Lu</b>, Yebin Wang<br />
+Jui-Te Lin, **Zehui Lu**, Yebin Wang<br />
 Under Review, IEEE Robotics and Automation Letters <br />
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
@@ -174,7 +174,7 @@ Under Review, IEEE Robotics and Automation Letters <br />
 ---
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **Torque Constraint Modeling and Reference Shaping for Servo Systems** <br />
-<b>Zehui Lu</b>, Tianpeng Zhang, Yebin Wang<br />
+**Zehui Lu**, Tianpeng Zhang, Yebin Wang<br />
 IEEE Control Systems Letters, 2024 <br />
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10771962){:target="_blank"}
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
@@ -185,7 +185,7 @@ IEEE Control Systems Letters, 2024 <br />
 
 ---
 **Online Control-Informed Learning** <br />
-Zihao Liang, Tianyu Zhou, <b>Zehui Lu</b>, Shaoshuai Mou<br />
+Zihao Liang, Tianyu Zhou, **Zehui Lu**, Shaoshuai Mou<br />
 Accepted, Transactions on Machine Learning Research, 2025 <br />
 [[PDF]](https://arxiv.org/abs/2410.03924){:target="_blank"}
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
@@ -196,7 +196,7 @@ Accepted, Transactions on Machine Learning Research, 2025 <br />
 
 ---
 **Online Intention Prediction via Imitation Learning** <br />
-Tianyu Zhou, Zihao Liang, <b>Zehui Lu</b>, Shaoshuai Mou<br />
+Tianyu Zhou, Zihao Liang, **Zehui Lu**, Shaoshuai Mou<br />
 Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) <br />
 <!-- [[PDF]](https://arxiv.org/abs/2410.03924){:target="_blank"} -->
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
@@ -207,7 +207,7 @@ Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) 
 
 ---
 **A Distributed Deep Koopman Learning Algorithm for Control** <br />
-Wenjian Hao, <b>Zehui Lu</b>, Devesh Upadhyay, Shaoshuai Mou<br />
+Wenjian Hao, **Zehui Lu**, Devesh Upadhyay, Shaoshuai Mou<br />
 Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) <br />
 [[PDF]](https://arxiv.org/abs/2412.07212){:target="_blank"}
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
@@ -219,7 +219,7 @@ Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) 
 ---
 <!-- <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 /> -->
 **Distributed Optimization under Edge Agreements: A Continuous-time Algorithm** <br />
-<b>Zehui Lu</b>, Shaoshuai Mou<br />
+**Zehui Lu**, Shaoshuai Mou<br />
 Systems & Control Letters, 2024 <br />
 [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0167691123002451){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
@@ -228,7 +228,7 @@ Systems & Control Letters, 2024 <br />
 ---
 <!-- <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 /> -->
 **Variable Sampling MPC via Differentiable Time-Warping Function** <br />
-<b>Zehui Lu</b>, Shaoshuai Mou<br />
+**Zehui Lu**, Shaoshuai Mou<br />
 2023 American Control Conference (ACC), 2023 <br />
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10155935){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
@@ -237,7 +237,7 @@ Systems & Control Letters, 2024 <br />
 ---
 <!-- <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 /> -->
 **Cooperative Tuning of Multi-Agent Optimal Control Systems** <br />
-<b>Zehui Lu</b>, Wanxin Jin, Shaoshuai Mou, Brian D. O. Anderson<br />
+**Zehui Lu**, Wanxin Jin, Shaoshuai Mou, Brian D. O. Anderson<br />
 2022 IEEE 61st Conference on Decision and Control (CDC), 2022 <br />
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9992969){:target="_blank"} /
 [[Code]](https://github.com/zehuilu/Cooperative-Tuning-of-Multi-Agent-Optimal-Control-Systems){:target="_blank"}
@@ -251,7 +251,7 @@ Systems & Control Letters, 2024 <br />
 ---
 <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 />
 **Learning From Human Directional Corrections** <br />
-Wanxin Jin, Todd D Murphey, <b>Zehui Lu</b>, Shaoshuai Mou<br />
+Wanxin Jin, Todd D Murphey, **Zehui Lu**, Shaoshuai Mou<br />
 IEEE Transactions on Robotics, 2022 <br />
 [[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} /
 [[Video]](https://youtu.be/Mwlwt055Tgg){:target="_blank"} /
@@ -262,7 +262,7 @@ IEEE Transactions on Robotics, 2022 <br />
 ---
 <!-- <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 /> -->
 **Reward-Based Collision-Free Algorithm for Trajectory Planning of Autonomous Robots** <br />
-Jose D. Hoyos, Tianyu Zhou, <b>Zehui Lu</b>, Shaoshuai Mou<br />
+Jose D. Hoyos, Tianyu Zhou, **Zehui Lu**, Shaoshuai Mou<br />
 Under Review, IEEE Transactions on Automation Science and Engineering, 2024 <br />
 [[PDF]](https://arxiv.org/abs/2502.06149){:target="_blank"} /
 <!-- [[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} / -->
@@ -273,7 +273,7 @@ Under Review, IEEE Transactions on Automation Science and Engineering, 2024 <br 
 ---
 <!-- <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 /> -->
 **On Orbit Object Transportation with Spacecraft Swarms** <br />
-Sidhdharth D. Sikka, <b>Zehui Lu</b>, Ayush Rai, Daniel DeLaurentis, Shaoshuai Mou<br />
+Sidhdharth D. Sikka, **Zehui Lu**, Ayush Rai, Daniel DeLaurentis, Shaoshuai Mou<br />
 2025 AIAA SciTech Forum, 2025 <br />
 [[PDF]](https://arc.aiaa.org/doi/10.2514/6.2025-0405){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
@@ -282,8 +282,8 @@ Sidhdharth D. Sikka, <b>Zehui Lu</b>, Ayush Rai, Daniel DeLaurentis, Shaoshuai M
 ---
 <!-- <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 /> -->
 **Multi-Robot Formation Control with Human-on-the-Loop** <br />
-Tianyu Zhou, <b>Zehui Lu</b>, Shaoshuai Mou<br />
-<b>Best Student Paper Award</b>, 2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS), 2024 <br />
+Tianyu Zhou, **Zehui Lu**, Shaoshuai Mou<br />
+**Best Student Paper Award**, 2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS), 2024 <br />
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10639942){:target="_blank"} /
 [[Video]](https://youtu.be/-3WkRDwjgGo?si=Q2_ZXMq1aSpt9oNM){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
@@ -292,7 +292,7 @@ Tianyu Zhou, <b>Zehui Lu</b>, Shaoshuai Mou<br />
 ---
 <!-- <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 /> -->
 **Real-Time Multi-Robot Mission Planning in Cluttered Environment** <br />
-<b>Zehui Lu</b>, Tianyu Zhou, Shaoshuai Mou<br />
+**Zehui Lu**, Tianyu Zhou, Shaoshuai Mou<br />
 Robotics, 2024 <br />
 [[PDF]](https://www.mdpi.com/2218-6581/13/3/40){:target="_blank"} /
 [[Video]](https://youtu.be/bT5-EjS9rAk?si=VtOYi0l2I9d-6c1H){:target="_blank"} /
