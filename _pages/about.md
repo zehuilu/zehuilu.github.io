@@ -264,8 +264,8 @@ IEEE Transactions on Robotics, 2022 <br />
 **Reward-Based Collision-Free Algorithm for Trajectory Planning of Autonomous Robots** <br />
 Jose D. Hoyos, Tianyu Zhou, <b>Zehui Lu</b>, Shaoshuai Mou<br />
 Under Review, IEEE Transactions on Automation Science and Engineering, 2024 <br />
-<!-- [[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} /
-[[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} / -->
+[[PDF]](https://arxiv.org/abs/2502.06149){:target="_blank"} /
+<!-- [[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} / -->
 [[Video]](https://youtu.be/iQ9f3bVbYis?si=Zmd503H2KCAg_F8P){:target="_blank"}
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
