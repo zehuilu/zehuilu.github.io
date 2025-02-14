@@ -21,7 +21,18 @@ Journal of Field Robotics, 2024 <br />
 </div>
 
 
-#### **Enhanced Agility and Safety in Mobile Manipulators through Centroidal Momentum-Based Motion Planning**
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe src="https://vimeo.com/1032336085" 
+                class="img-fluid rounded z-depth-1"
+                frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+        </iframe>
+    </div>
+</div>
+
+
+
+<!-- #### **Enhanced Agility and Safety in Mobile Manipulators through Centroidal Momentum-Based Motion Planning**
 <p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
 Min Dai, <b>Zehui Lu</b>, Na Li, Yebin Wang<br />
 Under Review, 2025 European Control Conference (ECC) <br />
@@ -30,6 +41,6 @@ Under Review, 2025 European Control Conference (ECC) <br />
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://vimeo.com/1027881425" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
 
 
