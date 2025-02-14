@@ -23,7 +23,14 @@ Robotics, 2024 <br />
 Tianyu Zhou, **Zehui Lu**, Shaoshuai Mou<br />
 **Best Student Paper Award**, 2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS), 2024 <br />
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10639942){:target="_blank"}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-3WkRDwjgGo?si=vQ9QNKfzoQIaxMgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-3WkRDwjgGo?si=vQ9QNKfzoQIaxMgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/-3WkRDwjgGo" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+</iframe>
 
 
 ---
@@ -47,7 +54,7 @@ IEEE Transactions on Robotics, 2022 <br />
 **A Differentiable Dynamic Modeling Approach to Integrated Motion Planning and Actuator Physical Design for Mobile Manipulators** <br />
 **Zehui Lu**, Yebin Wang<br />
 Journal of Field Robotics, 2024 <br />
-[[PDF]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22394){:target="_blank"} / 
+[[PDF]](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22394){:target="_blank"} 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1032336085?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="A Differentiable Dynamic Modeling Approach to Integrated Motion Planning and Actuator Physical Design for Mobile Manipulators"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
