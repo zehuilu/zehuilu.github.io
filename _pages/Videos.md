@@ -23,14 +23,7 @@ Robotics, 2024 <br />
 Tianyu Zhou, **Zehui Lu**, Shaoshuai Mou<br />
 **Best Student Paper Award**, 2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS), 2024 <br />
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10639942){:target="_blank"}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-3WkRDwjgGo?si=vQ9QNKfzoQIaxMgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/-3WkRDwjgGo" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-3WkRDwjgGo?si=EIlKgFaolDeOmgcT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
