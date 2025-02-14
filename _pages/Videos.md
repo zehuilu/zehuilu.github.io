@@ -33,11 +33,18 @@ Journal of Field Robotics, 2024 <br />
 
 
 
-<div class="row mt-3">
+<!-- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://youtu.be/bT5-EjS9rAk?si=VtOYi0l2I9d-6c1H" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bT5-EjS9rAk?si=4wv_e8ATBrCszWfr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+test
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-3WkRDwjgGo?si=vQ9QNKfzoQIaxMgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!-- <div class="row mt-3">
@@ -49,16 +56,14 @@ Journal of Field Robotics, 2024 <br />
     </div>
 </div> -->
 
-aaa
-
-<div class="row mt-3">
+<!-- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <iframe src="https://youtu.be/bT5-EjS9rAk?si=VtOYi0l2I9d-6c1H" 
                 class="img-fluid rounded z-depth-1"
                 frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
         </iframe>
     </div>
-</div>
+</div> -->
 
 
 <!-- #### **Enhanced Agility and Safety in Mobile Manipulators through Centroidal Momentum-Based Motion Planning**
