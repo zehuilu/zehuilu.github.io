@@ -48,7 +48,7 @@ This website is under construction.
     <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank"></a>   &nbsp;&nbsp;&nbsp;
 <a href = "https://github.com/zehuilu" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/github.gif" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
-<a href = "https://drive.google.com/file/d/14EjTjpeYzEg1ZFL1Y3OWU5f9oZbAevlb/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+<a href = "https://drive.google.com/file/d/1wuJiBUKPBW31wfpUJbK1hERlURh2F6Dh/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/CV_icon.png" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
 <!-- <a href = "https://twitter.com/jinwanxin" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
@@ -122,7 +122,7 @@ Under Review, IEEE Transactions on Control of Network Systems, 2024 <br />
 <!-- <img src="collections/research/manipulation/cartpole_wall_crop.gif"  title="SafePDP" width="150"  align="left" hspace="25" vspace=0 /> -->
 **A Real-time High C-rate Lithium-ion Battery Fast Charging Strategy** <br />
 <b>Zehui Lu</b>, Hao Tu, Huazhen Fang, Yebin Wang, Shaoshuai Mou<br />
-Under Review, The 2025 American Control Conference (ACC), 2024 <br />
+Under Review, The 9th IEEE Conference on Control Technology and Applications (CCTA), 2025 <br />
 <!-- [[PDF]](https://arxiv.org/abs/2112.13284){:target="_blank"} /  -->
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
@@ -154,7 +154,7 @@ Journal of Field Robotics, 2024 <br />
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **Enhanced Agility and Safety in Mobile Manipulators through Centroidal Momentum-Based Motion Planning** <br />
 Min Dai, <b>Zehui Lu</b>, Na Li, Yebin Wang<br />
-Under Review, 2025 European Control Conference (ECC), 2024 <br />
+Under Review, 2025 European Control Conference (ECC) <br />
 [[Video]](https://vimeo.com/1027881425){:target="_blank"}
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
@@ -164,7 +164,7 @@ Under Review, 2025 European Control Conference (ECC), 2024 <br />
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **Closing the Robot Co-Design Loop: A Framework for Motors, Motions and Feedback Controller Design under Disturbances** <br />
 Jui-Te Lin, <b>Zehui Lu</b>, Yebin Wang<br />
-Under Review, IEEE Robotics and Automation Letters, 2024 <br />
+Under Review, IEEE Robotics and Automation Letters <br />
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
 
@@ -186,7 +186,7 @@ IEEE Control Systems Letters, 2024 <br />
 ---
 **Online Control-Informed Learning** <br />
 Zihao Liang, Tianyu Zhou, <b>Zehui Lu</b>, Shaoshuai Mou<br />
-Under Review, Transactions on Machine Learning Research, 2024 <br />
+Accepted, Transactions on Machine Learning Research, 2025 <br />
 [[PDF]](https://arxiv.org/abs/2410.03924){:target="_blank"}
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
 <!-- [[Video]](https://www.youtube.com/watch?v=abP1QGX6lWY){:target="_blank"}/ -->
