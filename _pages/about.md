@@ -154,7 +154,7 @@ Journal of Field Robotics, 2024 <br />
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **Enhanced Agility and Safety in Mobile Manipulators through Centroidal Momentum-Based Motion Planning** <br />
 Min Dai, **Zehui Lu**, Na Li, Yebin Wang<br />
-Under Review, 2025 European Control Conference (ECC) <br />
+Accepted, 2025 European Control Conference (ECC) <br />
 [[Video]](https://vimeo.com/1027881425){:target="_blank"}
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
@@ -186,7 +186,7 @@ IEEE Control Systems Letters, 2024 <br />
 ---
 **Online Control-Informed Learning** <br />
 Zihao Liang, Tianyu Zhou, **Zehui Lu**, Shaoshuai Mou<br />
-Accepted, Transactions on Machine Learning Research, 2025 <br />
+Transactions on Machine Learning Research, 2025 <br />
 [[PDF]](https://arxiv.org/abs/2410.03924){:target="_blank"}
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
 <!-- [[Video]](https://www.youtube.com/watch?v=abP1QGX6lWY){:target="_blank"}/ -->
@@ -205,15 +205,15 @@ Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) 
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
 
----
-**A Distributed Deep Koopman Learning Algorithm for Control** <br />
-Wenjian Hao, **Zehui Lu**, Devesh Upadhyay, Shaoshuai Mou<br />
-Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) <br />
-[[PDF]](https://arxiv.org/abs/2412.07212){:target="_blank"}
+<!-- --- -->
+<!-- **A Distributed Deep Koopman Learning Algorithm for Control** <br /> -->
+<!-- Wenjian Hao, **Zehui Lu**, Devesh Upadhyay, Shaoshuai Mou<br /> -->
+<!-- Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) <br /> -->
+<!-- [[PDF]](https://arxiv.org/abs/2412.07212){:target="_blank"} -->
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
 <!-- [[Video]](https://www.youtube.com/watch?v=abP1QGX6lWY){:target="_blank"}/ -->
 <!-- [[Webpage]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"} -->
-<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+<!-- <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p> -->
 
 
 ---
@@ -263,7 +263,7 @@ IEEE Transactions on Robotics, 2022 <br />
 <!-- <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 /> -->
 **Reward-Based Collision-Free Algorithm for Trajectory Planning of Autonomous Robots** <br />
 Jose D. Hoyos, Tianyu Zhou, **Zehui Lu**, Shaoshuai Mou<br />
-Under Review, IEEE Transactions on Automation Science and Engineering, 2024 <br />
+Conditionally Accepted, IEEE Transactions on Automation Science and Engineering, 2024 <br />
 [[PDF]](https://arxiv.org/abs/2502.06149){:target="_blank"} /
 <!-- [[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} / -->
 [[Video]](https://youtu.be/iQ9f3bVbYis?si=Zmd503H2KCAg_F8P){:target="_blank"}
