@@ -109,7 +109,7 @@ IEEE Transactions on Control Systems Technology, 2024 <br />
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **Distributed Optimization under Edge Agreement with Application in Battery Network Management** <br />
 **Zehui Lu**, Shaoshuai Mou<br />
-Under Review, IEEE Transactions on Control of Network Systems, 2024 <br />
+Preprint <br />
 [[PDF]](https://arxiv.org/abs/2409.00936){:target="_blank"}
 <!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
 <!-- [[Video]](https://www.youtube.com/watch?v=abP1QGX6lWY){:target="_blank"}/ -->
@@ -122,7 +122,7 @@ Under Review, IEEE Transactions on Control of Network Systems, 2024 <br />
 <!-- <img src="collections/research/manipulation/cartpole_wall_crop.gif"  title="SafePDP" width="150"  align="left" hspace="25" vspace=0 /> -->
 **A Real-time High C-rate Lithium-ion Battery Fast Charging Strategy** <br />
 **Zehui Lu**, Hao Tu, Huazhen Fang, Yebin Wang, Shaoshuai Mou<br />
-Under Review, The 9th IEEE Conference on Control Technology and Applications (CCTA), 2025 <br />
+The 9th IEEE Conference on Control Technology and Applications (CCTA), 2025 <br />
 <!-- [[PDF]](https://arxiv.org/abs/2112.13284){:target="_blank"} /  -->
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
@@ -154,7 +154,7 @@ Journal of Field Robotics, 2024 <br />
 <!-- <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 /> -->
 **Enhanced Agility and Safety in Mobile Manipulators through Centroidal Momentum-Based Motion Planning** <br />
 Min Dai, **Zehui Lu**, Na Li, Yebin Wang<br />
-Accepted, 2025 European Control Conference (ECC) <br />
+2025 European Control Conference (ECC) <br />
 [[Video]](https://vimeo.com/1027881425){:target="_blank"}
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
@@ -194,15 +194,11 @@ Transactions on Machine Learning Research, 2025 <br />
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
 
----
+<!-- ---
 **Online Intention Prediction via Imitation Learning** <br />
 Tianyu Zhou, Zihao Liang, **Zehui Lu**, Shaoshuai Mou<br />
 Under Review, 7th Annual Learning for Dynamics & Control Conference (L4DC 2025) <br />
-<!-- [[PDF]](https://arxiv.org/abs/2410.03924){:target="_blank"} -->
-<!-- [[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/ -->
-<!-- [[Video]](https://www.youtube.com/watch?v=abP1QGX6lWY){:target="_blank"}/ -->
-<!-- [[Webpage]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"} -->
-<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p> -->
 
 
 <!-- --- -->
@@ -263,7 +259,7 @@ IEEE Transactions on Robotics, 2022 <br />
 <!-- <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 /> -->
 **Reward-Based Collision-Free Algorithm for Trajectory Planning of Autonomous Robots** <br />
 Jose D. Hoyos, Tianyu Zhou, **Zehui Lu**, Shaoshuai Mou<br />
-Conditionally Accepted, IEEE Transactions on Automation Science and Engineering, 2024 <br />
+IEEE Transactions on Automation Science and Engineering, 2025 <br />
 [[PDF]](https://arxiv.org/abs/2502.06149){:target="_blank"} /
 <!-- [[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} / -->
 [[Video]](https://youtu.be/iQ9f3bVbYis?si=Zmd503H2KCAg_F8P){:target="_blank"}
