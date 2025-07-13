@@ -48,8 +48,10 @@ This website is under construction.
     <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank"></a>   &nbsp;&nbsp;&nbsp;
 <a href = "https://github.com/zehuilu" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/github.gif" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
-<a href = "https://drive.google.com/file/d/1wuJiBUKPBW31wfpUJbK1hERlURh2F6Dh/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+<a href = "https://drive.google.com/file/d/1hRSrHbwEwI3aeHTHIfKSvKX7g3gDULCY/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/CV_icon.png" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
+<!-- <a href = "https://drive.google.com/file/d/1wuJiBUKPBW31wfpUJbK1hERlURh2F6Dh/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+    <img src="assets/img/platform_icon/CV_icon.png" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp; -->
 <!-- <a href = "https://twitter.com/jinwanxin" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp; -->
 <!-- <a href = "https://www.youtube.com/channel/UCkMgzXIhi3BmWP7tAdeyoaA" target="_blank" rel="noopener noreferrer">
