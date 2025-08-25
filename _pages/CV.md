@@ -15,7 +15,7 @@ description: Zehui Lu's CV
     <title>Redirecting...</title>
     <script>
         window.onload = function() {
-            window.open("https://drive.google.com/file/d/10IdqrBp7kxTYtsXFyl7CbGVanUkw98kd/view?usp=drive_link", "_blank", "noopener,noreferrer");
+            window.open("https://drive.google.com/file/d/1SEMDEu90XJoehaWQFcnsOl50LvC9x-Et/view?usp=drive_link", "_blank", "noopener,noreferrer");
         };
     </script>
 </head>
