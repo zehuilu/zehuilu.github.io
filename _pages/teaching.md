@@ -34,7 +34,7 @@ Info: undergraduate course, Purdue University<br/> -->
 Role: Instructor<br/>
 Info: undergraduate course (∼ 90 students), Purdue University<br/>
 Teaching Evaluation:
-  * Overall: Mean (3.48/5), Median (4/5), Response Rate (83/91, 91.21%)
+  * Overall: Mean (3.51/5), Median (4/5), Response Rate (83/91, 91.21%)
   * Featured Student Comments:
     - The instructor does a good job or answering the questions of students.
     - The instructor is very good at explaining the concepts and knows what he is doing. I hope he continues to just show the details of each problem done.
@@ -53,7 +53,7 @@ Teaching Evaluation:
 Role: Instructor<br/>
 Info: undergraduate course (∼ 60 students), Purdue University<br/>
 Teaching Evaluation:
-  * Overall: Mean (3.64/5), Median (4/5), Response Rate (58/62, 93.55%)
+  * Overall: Mean (3.67/5), Median (4/5), Response Rate (58/62, 93.55%)
   * Featured Student Comments:
     - He is good about answering questions and directing the students to the right place when they are not understanding something. I also really liked how he would help explain the homework.
     - Very responsive to emails and showed that he cared about the student's success
