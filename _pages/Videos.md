@@ -13,7 +13,7 @@ Here are some videos from my research on Robotics. *: Research Mentor as Visitin
 Wenjian Hao, **Zehui Lu**<sup>*</sup>, Nicolas Miguel, Shaoshuai Mou<br />
 Under Review by a Robotics Journal <br />
 <!-- [[PDF]](https://arxiv.org/abs/2502.06149){:target="_blank"} -->
-<iframe width="560" height="315" src="https://youtu.be/iYwDWh-JNkU?si=N04fZxgrdzrpK8dO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iYwDWh-JNkU?si=Gz_YpzqRV1ig4PgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
@@ -21,7 +21,7 @@ Under Review by a Robotics Journal <br />
 Shunan Yin, **Zehui Lu**<sup>*</sup>, Shaoshuai Mou<br />
 Under Review by a Robotics Journal <br />
 <!-- [[PDF]](https://arxiv.org/abs/2502.06149){:target="_blank"} -->
-<iframe width="560" height="315" src="https://youtu.be/7c48M3qHm64?si=Cc80KikQsE1MNkzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c48M3qHm64?si=4Ly4-PuBKupZPZmF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
@@ -29,7 +29,7 @@ Under Review by a Robotics Journal <br />
 Tianyu Zhou, Zihao Liang, **Zehui Lu**<sup>*</sup>, Shaoshuai Mou<br />
 Under Review by a Control Conference <br />
 <!-- [[PDF]](https://arxiv.org/abs/2502.06149){:target="_blank"} -->
-<iframe width="560" height="315" src="https://youtu.be/rKf8zJNEKc8?si=L16UjWrk2q5ZJVsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rKf8zJNEKc8?si=309BgUULZ17oTN3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
