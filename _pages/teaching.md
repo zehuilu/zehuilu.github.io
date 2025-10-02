@@ -23,10 +23,12 @@ nav: true
 Detailed teaching evaluation reports can be provided upon request.
 
 
-<!-- ---
+---
 - <b>AAE 203: Aeromechanics I</b>, Fall 2025   <br/>
 Role: Instructor<br/>
-Info: undergraduate course, Purdue University<br/> -->
+Info: undergraduate course, Purdue University<br/>
+
+
 
 
 ---
