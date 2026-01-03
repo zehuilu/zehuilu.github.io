@@ -25,16 +25,31 @@ social: false  # includes social icons at the bottom of the page
 <p style="margin-bottom:1.3cm; margin-left: 0.5cm"> </p>
 
 
-I am a Visiting Assistant Professor in the School of Aeronautics and Astronautics at Purdue University since August, 2024. From 2023 to 2024, I was a Research Intern at Mitsubishi Electric Research Laboratories (MERL), supervised by [Dr. Yebin Wang](https://www.merl.com/people/yebinwang). In 2020, I worked as a Research Engineer at UM Ford Center for Autonomous Vehicles (FCAV), supervised by [Prof. Ram Vasudevan](https://me.engin.umich.edu/people/faculty/ramanarayan-vasudevan/).
+- Staff Motion Planning and Control Engineer, Autonomous Driving, Lucid Motors, San Francisco Bay Area, 01/2026 - Present
 
-- Ph.D., Aeronautical and Astronautical Engineering, Purdue University, 2020 - 2024
+- Visiting Assistant Professor, School of Aeronautics and Astronautics, Purdue University, 08/2024 - 12/2025
+
+- Visiting Faculty, Mitsubishi Electric Research Laboratories (MERL), Cambridge, MA, 05/2025 - 08/2025,
+
+- Technical Consultant, Mitsubishi Electric Research Laboratories (MERL), Cambridge, MA, 08/2024 - 03/2025, 08/2025 - 12/2025
+
+- Research Intern, Mitsubishi Electric Research Laboratories (MERL), Cambridge, MA, 08/2023 - 05/2024
+ * Supervisor: [Dr. Yebin Wang](https://www.merl.com/people/yebinwang)
+
+- Research Engineer, University of Michigan Ford Center for Autonomous Vehicles (FCAV), 01/2020 - 07/2020
+ * Supervisor: [Prof. Ram Vasudevan](https://me.engin.umich.edu/people/faculty/ramanarayan-vasudevan/)
+
+<br />
+<br />
+
+- Ph.D., Aeronautical and Astronautical Engineering, Purdue University, 08/2020 - 08/2024
   * Advisor: [Prof. Shaoshuai Mou](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981)
 
-- M.S.E., Mechanical Engineering, University of Michigan, 2018 - 2019
+- M.S.E., Mechanical Engineering, University of Michigan, 08/2018 - 12/2019
   * Advisor: [Prof. Ram Vasudevan](https://me.engin.umich.edu/people/faculty/ramanarayan-vasudevan/)
 
 
-This website is under construction.
+This website is being actively updated.
 
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
@@ -42,7 +57,7 @@ This website is under construction.
 
 
 <center>
-<a href = "mailto:lu846@purdue.edu" target="_blank" rel="noopener noreferrer"> 
+<a href = "mailto:zehuilu789@gmail.com" target="_blank" rel="noopener noreferrer"> 
     <img src="assets/img/platform_icon/email.gif" width="35" target="_blank"> </a>   &nbsp;&nbsp;&nbsp;
 <a href = "https://scholar.google.com/citations?user=j73ZnVYAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"> 
     <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank"></a>   &nbsp;&nbsp;&nbsp;
